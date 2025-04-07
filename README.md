@@ -31,10 +31,12 @@ this is an image to [Boo](images/Image%20from%20Google%20Search.jpg)
 - this
 - is
 - a list
+
 #### ordered lists
 1. hello
 2. world
+
 #### Task lists
-- [x] this is done
-- [ ] this is not done
-- [ ] blah blah
+- [x]  this is done
+- [ ]  this is not done
+- [ ]  blah blah
